@@ -32,4 +32,4 @@ switch (num){
     default:
       console.log('Не в этот раз');
       break;
-};
+}
